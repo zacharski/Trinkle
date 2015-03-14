@@ -1,0 +1,21 @@
+9;10
+0;THE HALL OF THE MOUNTAIN KING;What can I say, a hall, a mountain, a king ...;Zip line:10;Omimous Tunnel:2;Tram Car Waiting - a long cable going down at a steep angle:1
+1;PLATFORM;You are on a platform in the middle of a humongous chasm;Tram Car Waiting - a long cable going up at a steep angle:0;Rope Ladder Down:4;Rickety Rope Bridge over Chasm:13
+2;LETS MAKE A DEAL;There is a large wheel of fortune here and three lecterns with the names@@"Mary Lynn, "Rusty" and "Mary Lou" on them.;Door 1:0;Door 2:3;Door 3:5
+3;STORAGE ROOM;You are in a room piled with old computer books.@@There is one book on a table: "Basic Computer Games";Red Door:2;Spiral Staircase Down:4;Ramp Up:6
+4;MUSIC PRACTICE ROOM;You are in a large room filled with folding metal chairs, Manhasset music stands, and euphoniums. @@There is a metronome ticking in the corner;Spiral Staircase Up:3;Rope Ladder Down:1;Moving Brick Walkway:7
+5;PACMAN CAVERN;There appear to be many dots moving around here.;A Tunnel labeled with a question mark:2;Ramp Up:11;Transmorgafying Staircase:8
+6;UNDERGROUND LIBRARY;You are in a room filled with dusty bookcases.@@There are equally dusty backpacks on library tables.;Moving Walkway:8;Ramp Down:3;Dark Tunnel:9
+7;TRINKLE SUB BASEMENT;You are in a room filled with a large CDC 6600 mainframe computer covered with cobwebs.@@There are black and white photographs of bearded professors on the walls.;Stairs Up:9;Stairs Down:12;Moving Brick Walkway:4
+8;VAST LECTURE HALL;You are in a large sloping lecture hall that is devoid of people.@@There is a powerpoint presentation about while statements playing in a repetive loop.;Transmorgafying Staircase:5;Moving Walkway:6;Plank Over a mountain of old computer parts:14
+9;TRINKLE BASEMENT;You are in the Trinkle Basement. The door to the upstairs is locked.@@There are some old computers here.;Dark Tunnel:6;Stairs Down:7;Tunnel lit with LEDs:15
+10;COMPUTER SCIENCE LOUNGE;There are 110101101 computer science students here playing some sort of massive multiplayer@@computer game and drinking Mountain Dew and consuming pizza.@@(Hey, I didn't come up with these stereotypes);White Door:11;Zip Line:0;Mustard Colored Tunnel:19
+11;VENDING SUPPLIES;There are piles and piles of soda here. Mountain Dew Seems to be a favorite. @@There are ginomous boxes filled with bags of Doritos. @@There is an unsightly pile of used pizza boxes in the corner;Ramp Down:5;Tunnel with Flashing Red Lights:16;White Door:10
+12;TRINKLE SUB SUB BASEMENT;You are in a room filled with with some sort of  vacuum tube computer. @@There are large reel-to-reel tape drives here.;Long Escalator Up:13;Dark Tunnel:17;Stairs Up:7
+13;SECRET LABORATORY;You are in a room with several rows of empty wire cages that look like they could hold large dogs. @@Attached to each cage is a metal sign with the number 1337.;Long Escalator Down:12;Rickety Rope Bridge Over Chasm:1;Tunnel with a sign that says "London Tube":19
+14;TOMB;You are in a room with a large granite block that says: @@"Tomb of the Unknown Computer Science Student". @@There are various offerings (old headphones, mice, keyboards) in big bowls. @@Frankly, its a bit of an embarrassment.;Crawl Space:16;Plank Over a mountain of old computer parts:18;Brick Walkway:15
+15;TUNNEL JUNCTION;You are in the middle of a dark tunnel.;Tunnel lit with LEDs:9;Brick Walkway:14;Spiral Staircase Down:17
+16;BOILER ROOM;Your are in a steamy, hot room filled with large steel tanks. @@There are pipes everywhere;Tunnel With Flashing Red Lights:11;Heating Duct:18;Crawl Space:14
+17;COMPUTER LAB;There are rows and rows of Commodore 64s with cassette tape drives on long tables.@@At each computer is a book titled "Teach yourself Pascal Programming in 31 Days";Dark Tunnel:12;Spiral Staircase Up:15;A Yellow-Bricked Road:18
+18;UNDERGROUND DORM;Your are in a room of 18 tiny cots. There is a Matrix poster on one wall. @@On another someone hand painted "Linux Rules";Rope Down:19;Heating Duct:16;Yello Bricked Road:17
+19;CONSERVATORY;You are in an ornate room. @@There is a candlestick, a rope, and a knife.;Mustard Colored Tunnel:10;Rope Up:18;Tunnel With A Sign That Says "Edinburgh Tube":13
